@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gaming console</folder>
+	<filename>134.jpg</filename>
+	<path>C:\Users\dell\Pictures\Gaming console\134.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>304</width>
+		<height>218</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gamingconsole</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>1</ymin>
+			<xmax>304</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>
